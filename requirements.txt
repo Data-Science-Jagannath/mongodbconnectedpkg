@@ -1,0 +1,18 @@
+pymongo
+pymongo[srv]
+dnspython
+pandas
+numpy
+ensure
+pytest
+# seaborn 
+# flask
+# mlflow==2.2.2
+# dvc
+# ipykernel
+# xgboost
+# scikit-learn
+
+# dev requirements -
+# 
+-e .

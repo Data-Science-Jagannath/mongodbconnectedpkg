@@ -1,0 +1,15 @@
+pymongo
+pymongo[srv]
+dnspython
+pandas
+numpy
+ensure # library for ensuring something
+# pytest test the diferrent use cases we have inside the unit test and integration test
+
+# dev requirements -
+
+pytest==7.1.3
+tox==3.25.1 # using this we will test our code in different environment
+black==22.8.0 # it is a linting toll, will handle indention errors
+flake8==5.0.4 # will handle indention errors
+mypy==0.971
